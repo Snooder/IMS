@@ -1,0 +1,21 @@
+<ActionBar title="Inventory"></ActionBar>
+
+<StackLayout>
+    <WrapLayout flex-wrap="wrap" class="m-15">
+        <Label class="h2" [text]="item?.Street"></Label>
+        <label text=", "></label>
+        <Label class="h2" [text]="item?.City"></Label>
+        <label text=", "></label>
+        <Label class="h2" [text]="item?.Zip"></Label>
+    </WrapLayout>
+
+    <ListView [items]="item?.furniture" (itemTap)="buttonTap()" class="list-group">
+        <ng-template let-item="item" let-i="index" let-odd="odd" let-even="even">
+            <!-- The item template can only have a single root view container (e.g. GridLayout, StackLayout, etc.)-->
+            <GridLayout>
+                <Label [text]="item?.Furniture" class="list-group-item -primary"></Label>
+            </GridLayout>
+        </ng-template>
+    </ListView>
+</StackLayout>
+
