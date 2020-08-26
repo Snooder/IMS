@@ -17,13 +17,10 @@ HTTPS endpoints.
 
 MongoDB: Which held the sample property location data as well as a variety of sample furniture data in JSON format.
 
-[!TestImage1]
-(https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.18.49%20PM.png)
+[!TestImage1](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.18.49%20PM.png)
 
-[!TestImage2]
-(https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.02%20PM.png)
+[!TestImage2](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.02%20PM.png)
 
-[!TestImage3]
-(https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.12%20PM.png)
+[!TestImage3](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.12%20PM.png)
 
 Project first began August 14th, 2020
