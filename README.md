@@ -1,5 +1,6 @@
 # IMS
 Inventory Management System using Node.js
+Project first began August 14th, 2020
 
 Inspiration: A friend had told me that a client was interested in turning her Property Management into a mobile format in the form of an app or website. To prepare
 myself for a possible contract, I started to learn how to interact with a JS framework using a Node.JS server to pull housing and inventory data from a database
@@ -17,10 +18,12 @@ HTTPS endpoints.
 
 MongoDB: Which held the sample property location data as well as a variety of sample furniture data in JSON format.
 
-[!TestImage1](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.18.49%20PM.png)
+[!Properties View](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.18.49%20PM.png)
 
-[!TestImage2](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.02%20PM.png)
+[!Inventory View per Property](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.02%20PM.png)
 
-[!TestImage3](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.12%20PM.png)
+[!Editable Changes](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.12%20PM.png)
 
-Project first began August 14th, 2020
+Development Path to come:
+Functionality of Editable changes such as moving inventory items to other locations
+Search Functionality for Properties or Items in order to properly find products
