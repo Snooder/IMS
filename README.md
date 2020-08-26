@@ -26,4 +26,5 @@ MongoDB: Which held the sample property location data as well as a variety of sa
 
 Development Path to come:
 Functionality of Editable changes such as moving inventory items to other locations
+
 Search Functionality for Properties or Items in order to properly find products
