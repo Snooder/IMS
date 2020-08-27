@@ -25,6 +25,7 @@ MongoDB: Which held the sample property location data as well as a variety of sa
 [!Editable Changes](https://github.com/Snooder/IMS/blob/master/Screen%20Shot%202020-08-26%20at%201.19.12%20PM.png)
 
 Development Path to come:
+
 Functionality of Editable changes such as moving inventory items to other locations
 
 Search Functionality for Properties or Items in order to properly find products
